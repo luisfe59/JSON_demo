@@ -1,12 +1,12 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hola"
+      "bomba": 1,
+      "frecuencia": "46.5 Hz"
     },
     {
-      "id": 2,
-      "title": "adios"
+      "bomba": 2,
+      "frecuencia": "51.7 Hz"
     }
   ],
   "profile": {
