@@ -1,2 +1,3 @@
 # JSON_demo
 objeto JSON para pruebas
+poder simular peticiones GET, POST, PUT ... 
