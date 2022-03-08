@@ -3,14 +3,14 @@
     {
       "id": 1,
       "frecuencia": "46.5 Hz"
-      "voltaje": "230.5V"
-      "corriente": "15.22A"
+      "voltaje": "230.5 V"
+      "corriente": "15.22 A"
     },
     {
       "id": 2,
       "frecuencia": "51.7 Hz"
-      "voltaje": "210.8V"
-      "corriente": "12.56A"
+      "voltaje": "210.8 V"
+      "corriente": "12.56 A"
     }
   ],
   "profile": {
