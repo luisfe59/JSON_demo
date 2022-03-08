@@ -11,6 +11,12 @@
       "frecuencia": "51.7 Hz",
       "voltaje": "210.8 V",
       "corriente": "12.56 A"
+    },
+    {
+      "id": 3,
+      "frecuencia": "33.7 Hz",
+      "voltaje": "200.8 V",
+      "corriente": "10.56 A"
     }
   ],
   "profile": {
