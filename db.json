@@ -2,14 +2,14 @@
   "posts": [
     {
       "id": 1,
-      "frecuencia": "46.5 Hz"
-      "voltaje": "230.5 V"
+      "frecuencia": "46.5 Hz",
+      "voltaje": "230.5 V",
       "corriente": "15.22 A"
     },
     {
       "id": 2,
-      "frecuencia": "51.7 Hz"
-      "voltaje": "210.8 V"
+      "frecuencia": "51.7 Hz",
+      "voltaje": "210.8 V",
       "corriente": "12.56 A"
     }
   ],
